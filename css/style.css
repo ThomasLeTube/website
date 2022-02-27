@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@1,500&family=Roboto:wght@300&display=swap');
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	margin: 0px;
+	background-color: #070720;
+}
+
+h1, h2, h3{
+	font-family: 'Barlow', sans-serif;
+	font-weight: bold;
+	color: white;
+}
+
+p{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+/*<p class="card-desc"> The best game so far. If you don't have the time to play each one of these games, this is the one you have to chose. Indeed, the constant adaptation and the huge amount of characters makes each game different than the last one ! </p>*/

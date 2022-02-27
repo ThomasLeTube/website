@@ -1,0 +1,36 @@
+.btn-start{
+	padding: 10px 15px;
+	background-color: #25254b;
+	border-radius: 15px;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 25px;
+	margin-top: 30px;
+}
+
+.btn-start:hover{
+	background-color: white;
+	color: #25254b;
+}
+
+#begin{
+	margin-bottom: 150px;
+}
+
+.btn-card{
+	padding: 10px 15px;
+	background-color: #2553e0;
+	border-radius: 15px;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 25px;
+	margin-top: 30px;
+}
+
+.btn-card:hover{
+	background-color: white;
+	color: #25254b;
+}
+
